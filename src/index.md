@@ -5,7 +5,7 @@ metaTitle: Rob's hylia starter site
 metaDesc: Rob works on this site to practice his writing skills
 postsHeading: Some posts
 archiveButtonText: More posts
-socialImage: ""
+socialImage: images/emilio-garcia-1hck5xqoukq-unsplash.jpg
 ---
 Rob has started working on this Hylia site some time ago to provide content updates to his numerous readers. Zero is a number, so numerous being zero for now.
 
